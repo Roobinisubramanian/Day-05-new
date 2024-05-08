@@ -1,1 +1,1 @@
-Day 05 of classes
+Day 06 of classes
